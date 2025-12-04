@@ -1,0 +1,6 @@
+[submodule "libs/core"]
+	path = libs/core
+	url = https://github.com/ocl-org/core.git
+[submodule "libs/fix"]
+	path = libs/fix
+	url = https://github.com/ocl-org/fix.git
