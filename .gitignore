@@ -5,3 +5,6 @@
 *.pdf
 *.gz
 *.out
+
+doc/html/
+doc/latex/
