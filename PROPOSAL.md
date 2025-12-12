@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Proposals can be done at [amlal@nekernel.org](amlal@nekernel.org). 
+Proposals can be done at [contact@nekernel.org](contact@nekernel.org). 
 The library must be based on `OCL.Core` and must respect the following criteras:
 
 ## The Library must follow this structure:
