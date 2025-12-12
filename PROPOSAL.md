@@ -2,10 +2,13 @@
 
 ## Abstract
 
-Proposals can be done at [contact@nekernel.org](contact@nekernel.org). 
-The library must be based on `OCL.Core` and must respect the following criteras:
+OCL proposals can be done at the following address: [contact@nekernel.org](contact@nekernel.org).
 
-## The Library must follow this structure:
+## Acceptance Criterias:
+
+### I: The library must be based on `OCL.Core`.
+
+### II: The Library must follow the following structure:
 
 ```
 .github/
@@ -18,8 +21,8 @@ tests/
 LICENSE
 ```
 
-## The Library must be able to be compiled as header-only, and targeting C++20 or higher.
+### III: The Library must be able to be compiled as header-only, and targeting C++20 or higher.
 
-## The Library must include unit tests using a known framework. (GTest, Boost.Test, Catch2).
+### IV: The Library must include unit tests using a known framework. (GTest, Boost.Test, Catch2).
 
-## The Library must contain a Free Software License, like the BSD, or BSL license.
+### V: The Library must contain a Free Software License, like the BSD, or BSL license.
