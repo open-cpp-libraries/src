@@ -9,6 +9,6 @@
 // This is the library version, which applies the following pattern:
 // <branch>-<major_version> use it to detect whether you're using stable or develop OCL.
 
-#define OCL_LIB_VERSION "stable-00_"
+#define OCL_LIB_VERSION "develop-00_"
 
 #endif
