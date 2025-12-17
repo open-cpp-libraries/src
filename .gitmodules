@@ -4,3 +4,6 @@
 [submodule "libs/fix"]
 	path = libs/fix
 	url = https://github.com/ocl-org/fix.git
+[submodule "libs/tproc"]
+	path = libs/tproc
+	url = git@github.com:ocl-org/tproc.git

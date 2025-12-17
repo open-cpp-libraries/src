@@ -23,7 +23,8 @@ Freestanding targets are defined using the `__OCL_FREESTANDING` macro.
 examples/
 include/ocl/<library_name>/detail
 include/ocl/<library_name>
-tests/
+test/
+example/
 .clang-format
 .editorconfig
 LICENSE
@@ -33,4 +34,4 @@ LICENSE
 
 ### IV: The Library must include unit tests using a known framework. (GTest, Boost.Test, Catch2). (Unverified)
 
-### V: The Library must contain a Free Software License, like the BSD, or BSL license.
+### V: The Library must contain a Free Software License, such as, the BSD, or BSL license.
