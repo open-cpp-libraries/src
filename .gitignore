@@ -6,5 +6,7 @@
 *.gz
 *.out
 
+build/
+
 doc/html/
 doc/latex/
