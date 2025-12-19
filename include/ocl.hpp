@@ -12,7 +12,7 @@
 #include <ocl/allocator_op.hpp>
 #include <ocl/crc_hash.hpp>
 #include <ocl/option.hpp>
-#include <ocl/is_same.hpp>
+#include <ocl/equiv.hpp>
 #include <ocl/print.hpp>
 #include <ocl/smart_ptr.hpp>
 #include <ocl/tracked_ptr.hpp>
