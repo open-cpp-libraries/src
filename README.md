@@ -1,8 +1,8 @@
 # Open C++ Libraries
 
 The OCL provides free header-only C++ source libraries for usage in C++ application development.
-<br/>
-Modules include, a `core` library containing algorithms and containers for C++20 or later, and a `fix` module designed to parse `Financial Exchange Protocol` messages in modern C++.
+
+Modules include, a `core` library containing algorithms and containers for C++20 or later.
 
 These libraries were built on top of the Boost C++ libraries and C++ SL.
 
