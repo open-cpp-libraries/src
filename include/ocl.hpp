@@ -15,8 +15,6 @@
 #include <ocl/equiv.hpp>
 #include <ocl/print.hpp>
 #include <ocl/smart_ptr.hpp>
-#include <ocl/tracked_ptr.hpp>
-#include <ocl/smart_socket.hpp>
 
 #ifdef __OCL_FIX
 
