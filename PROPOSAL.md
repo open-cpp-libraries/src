@@ -20,7 +20,6 @@ Freestanding targets are defined using the `__OCL_FREESTANDING` macro.
 
 ```
 .github/
-examples/
 include/ocl/<library_name>/detail
 include/ocl/<library_name>
 test/
