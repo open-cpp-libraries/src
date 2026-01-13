@@ -9,11 +9,11 @@
 // This is a Binary Encoded Decimal of the OCL's version.
 // Which will be incremented each time a new release is done.
 
-#define OCL_VERSION 0x010500
+#define OCL_VERSION 0x010600
 
 // This is the library version, which applies the following pattern:
 // <semver> use it to detect what version of the OCL you're using.
 
-#define OCL_LIB_VERSION "01_05_"
+#define OCL_LIB_VERSION "01_06_"
 
 #endif
