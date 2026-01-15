@@ -6,6 +6,8 @@
 *.gz
 *.out
 
+.claude/
+
 build/
 
 doc/html/

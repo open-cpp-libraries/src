@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Open C++ Libraries
+message: A collection of freely available C++ libraries.
+type: software
+authors:
+  - given-names: Amlal
+    family-names: El Mahrouss
+    email: amlal@nekernel.org
+repository-code: 'https://github.com/ocl-org/ocl'
+url: 'https://ocl.nekernel.org'
+abstract: The Open C++ Libraries collection.
+license: BSL-1.0
