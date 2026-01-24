@@ -6,7 +6,7 @@ OCL proposals can be done at the following address: [contact@nekernel.org](conta
 
 ### Note
 
-Freestanding targets are defined using the `__OCL_FREESTANDING` macro.
+Freestanding targets are defined using the `OCL_FREESTANDING` macro.
 
 - Verified: Freestanding verified.
 - Half-Verified: Some components have been freestanding verified.

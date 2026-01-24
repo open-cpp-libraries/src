@@ -3,8 +3,8 @@
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 // Official repository: https://github.com/ocl-org/ocl
 
-#ifndef __OCL_HPP
-#define __OCL_HPP
+#ifndef OCL_HPP
+#define OCL_HPP
 
 // Version header
 #include <ocl/version.hpp>
@@ -17,16 +17,16 @@
 #include <ocl/print.hpp>
 #include <ocl/smart_ptr.hpp>
 
-#ifdef __OCL_FIX
+#ifdef OCL_FIX
 
 # include <ocl/fix.hpp>
 
 #endif
 
-#ifdef __OCL_TPROC
+#ifdef OCL_TPROC
 
 # include <ocl/tproc.hpp>
 
 #endif
 
-#endif // ifndef __OCL_HPP
+#endif // ifndef OCL_HPP
