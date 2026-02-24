@@ -8,6 +8,10 @@ Modules include, a `core` library containing algorithms and containers for C++20
 
 These libraries were built on top of the Boost C++ libraries and C++ SL.
 
+## Community:
+
+Join us in our [Discord](https://discord.gg/uD76Qweght), we're quite active and open for contributors!
+
 ## Getting Started:
 
 Documentation can be found at: [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org).
