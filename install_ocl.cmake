@@ -1,6 +1,6 @@
 # // ============================================================= //
 # // Open C++ Libraries.
-# // Copyright (C) 2025, Amlal El Mahrouss and OCL Authors, licensed under BSD-3 license.
+# // Copyright (C) 2025-2026, Amlal El Mahrouss and Ne.org Authors, licensed under BSL-1.0 license.
 # // ============================================================= //
 
 cmake_minimum_required(VERSION 3.30)
