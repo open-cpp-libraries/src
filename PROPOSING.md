@@ -4,6 +4,8 @@
 
 OCL proposals can be done at the following address: [contact@nekernel.org](contact@nekernel.org).
 
+Or one can propose via the Discord link provided in the README. In the #open-cpp-libraries channel.
+
 ### Note
 
 Freestanding targets are defined using the `OCL_FREESTANDING` macro.

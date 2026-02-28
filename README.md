@@ -10,7 +10,7 @@ These libraries were built on top of the Boost C++ libraries and C++ SL.
 
 ## Community:
 
-Join us in our [Discord](https://discord.gg/uD76Qweght), we're quite active and open for contributors!
+Join us in our [Discord](https://discord.gg/uD76Qweght) we're quite active and open for contributors!
 
 ## Getting Started:
 
