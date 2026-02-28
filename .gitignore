@@ -8,6 +8,8 @@
 
 .claude/
 
+__pycache__/
+
 build/
 
 doc/html/

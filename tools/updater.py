@@ -1,5 +1,3 @@
-#! /usr/bin/python3
-
 # Copyright 2026, Amlal El Mahrouss and Ne.org contributors.
 # Open C++ Libraries is licensed under BSL-1.0
 
@@ -14,13 +12,10 @@ class UpdateFunctor:
         system("git commit -s -S")
 
 
-def main():
+
+def start():
     functor = UpdateFunctor()
     print("INFO: Updater: Functor called")
-
-
-if __name__ == '__main__':
-    main()
 
 
 
