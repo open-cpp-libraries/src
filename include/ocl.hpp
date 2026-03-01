@@ -1,15 +1,15 @@
-// Copyright 2023-2025, Amlal El Mahrouss (amlal@nekernel.org)
+// Copyright 2023-2026, Amlal El Mahrouss (amlal@nekernel.org)
 // Distributed under the Boost Software License, Version 1.0. (See accompanying
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
-// Official repository: https://github.com/ocl-org/ocl
+// Official repository: https://git.ocl.nekernel.org/src
 
 #ifndef OCL_HPP
 #define OCL_HPP
 
-// Version header
+// Version header.
 #include <ocl/version.hpp>
 
-// Mandatory core headers.
+// Mandatory OCL headers.
 #include <ocl/allocator_op.hpp>
 #include <ocl/crc_hash.hpp>
 #include <ocl/option.hpp>
