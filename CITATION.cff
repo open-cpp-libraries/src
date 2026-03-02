@@ -9,7 +9,7 @@ authors:
   - given-names: Amlal
     family-names: El Mahrouss
     email: amlal@nekernel.org
-repository-code: 'https://github.com/ocl-org/src'
+repository-code: 'https://github.com/ocl-foss-org/src'
 url: 'https://ocl.nekernel.org'
 abstract: The Open C++ Libraries collection.
 license: BSL-1.0
