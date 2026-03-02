@@ -1,9 +1,9 @@
 [submodule "libs/core"]
 	path = libs/core
-	url = https://github.com/ocl-org/core.git
+	url = https://github.com/ocl-foss-org/core.git
 [submodule "libs/fix"]
 	path = libs/fix
-	url = https://github.com/ocl-org/fix.git
+	url = https://github.com/ocl-foss-org/fix.git
 [submodule "libs/tproc"]
 	path = libs/tproc
-	url = git@github.com:ocl-org/tproc.git
+	url = git@github.com:ocl-foss-org/tproc.git
