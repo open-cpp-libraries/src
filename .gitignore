@@ -10,6 +10,7 @@
 
 __pycache__/
 
+CMakeUserPresets.json
 build/
 
 doc/html/
