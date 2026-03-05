@@ -1,8 +1,8 @@
-# Open C++ Libraries
+# Open C++ Libraries.org
 
 ## Abstract:
 
-The OCL provides free header-only C++ source libraries for usage in C++ application development.
+The OCL provides free header-only C++ libraries for usage in C++ software development.
 
 Modules include, a `core` library containing algorithms and containers for C++20 or later.
 
