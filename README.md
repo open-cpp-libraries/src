@@ -1,5 +1,7 @@
 # Open C++ Libraries.org
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
+
 ## Abstract:
 
 The OCL provides free header-only C++ libraries for usage in C++ software development.
