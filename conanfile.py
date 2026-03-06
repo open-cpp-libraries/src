@@ -8,7 +8,7 @@ class oclRecipe(ConanFile):
     # Optional metadata
     license = "BSL-1.0"
     author = "Amlal El Mahrouss amlal@nekernel.org"
-    url = "https://git.ocl.nekernel.org/src"
+    url = "https://git.ocl.nekernel.org/ocl"
     description = "The Open C++ Libraries super-project."
     topics = ("c++17", "libraries", "cpp")
 
