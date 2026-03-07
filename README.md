@@ -7,7 +7,7 @@
 The primers are available at:
 
 - https://primer.ocl.nekernel.org
-- 
+
 ## Abstract:
 
 The OCL provides free header-only C++ libraries for usage in C++ software development.
