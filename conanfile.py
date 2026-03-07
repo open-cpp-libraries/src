@@ -9,15 +9,10 @@ class oclRecipe(ConanFile):
     license = "BSL-1.0"
     author = "Amlal El Mahrouss amlal@nekernel.org"
     url = "https://git.ocl.nekernel.org/ocl"
-    description = "The Open C++ Libraries super-project."
+    description = "The Open C++ Libraries.org super-project."
     topics = ("c++17", "libraries", "cpp")
 
-    # Binary configuration
-    settings = "os", "compiler", "build_type", "arch"
-    options = {"shared": [True, False], "fPIC": [True, False]}
-    default_options = {"shared": False, "fPIC": True}
-
-    exports_sources = "CMakeLists.txt", "libs/*", "include/*"
+    exports_sources = "CMakeLists.txt", "include/*"
 
     def config_options(self):
         if self.settings.os == "Windows":
