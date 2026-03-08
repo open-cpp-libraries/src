@@ -1,2 +1,2 @@
-release:v0.62.1-develop
-tag:v0.62.1
+release:v1.62.1-develop
+tag:v1.62.1
