@@ -28,9 +28,7 @@ class oclRecipe(ConanFile):
         tc.generate()
 
     def build(self):
-        cmake = CMake(self)
-        cmake.configure()
-        cmake.build()
+        self.package(self)
 
     def package(self):
         cmake = CMake(self)

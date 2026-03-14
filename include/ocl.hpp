@@ -19,15 +19,11 @@
 #include <ocl/smart_ptr.hpp>
 
 #ifdef OCL_FIX
-
 # include <ocl/fix.hpp>
-
 #endif
 
 #ifdef OCL_TPROC
-
 # include <ocl/tproc.hpp>
-
 #endif
 
 #endif // ifndef OCL_HPP
