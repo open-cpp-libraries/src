@@ -12,7 +12,6 @@ class UpdateFunctor:
         system("git commit -s -S")
 
 
-
 def start():
     functor = UpdateFunctor()
     print("INFO: Updater: Functor called")
