@@ -1,4 +1,4 @@
-# Open C++ Libraries.org
+# 🍯 Open C++ Libraries:
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
 
