@@ -2,6 +2,14 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
 
+## Quick Install:
+
+Install the OCL using the following link:
+
+```sh
+curl -fsSL http://install.ocl.nekernel.org | sh
+```
+
 ## Primers:
 
 The primers are available at:
