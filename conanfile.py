@@ -3,7 +3,7 @@ from conan.tools.cmake import CMakeToolchain, CMake, cmake_layout, CMakeDeps
 
 class oclRecipe(ConanFile):
     name = "Open C++ Libraries."
-    version = "1.62.0"
+    version = "1.62.2"
 
     # Optional metadata
     license = "BSL-1.0"
