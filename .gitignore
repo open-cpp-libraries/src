@@ -15,3 +15,5 @@ build/
 
 doc/html/
 doc/latex/
+
+.vs/
