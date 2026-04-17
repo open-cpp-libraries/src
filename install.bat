@@ -1,7 +1,5 @@
 @echo off
 
-## To be used for: curl -fsSL https://setup.ocl.nekernel.org
-
 echo "==> WELCOME TO OPEN C++ LIBRARIES."
 echo "==> INSTALLING OPEN C++ LIBRARIES..."
 
