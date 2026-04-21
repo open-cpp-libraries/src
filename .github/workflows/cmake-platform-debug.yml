@@ -1,4 +1,4 @@
-name: CMake Build (DEBUG)
+name: Ne.app OCL CMake Build (DEBUG)
 
 on:
   push:

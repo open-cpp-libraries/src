@@ -28,4 +28,9 @@
 # include <ocl/tproc.hpp>
 #endif
 
+// The OpenCL module.
+#ifdef OCL_COMPUTE
+# include <ocl/compute.hpp>
+#endif
+
 #endif // ifndef OCL_HPP
