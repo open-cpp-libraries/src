@@ -4,6 +4,10 @@
 
 ## Quick Install:
 
+> [!NOTE]
+> On Windows, you will need to use the setup link at:
+> `curl -fsSL http://setup.ocl.nekernel.org`.
+
 Install the OCL using the following link:
 
 ```sh
