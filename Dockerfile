@@ -4,4 +4,6 @@ FROM debian
 
 RUN apt-get update && apt-get upgrade -y
 
-RUN ./install.sh
+COPY ./ ./src
+RUN ./src/install.sh
+
