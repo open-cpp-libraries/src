@@ -9,8 +9,8 @@ import updater
 def updater_main():
     try:
         updater.start()
-    except OSError:
-        print("Updater failed.")
+    except OSError as e:
+        print("Updater failed: ", e)
 
 # The Upader starts here
 if __name__ == '__main__':

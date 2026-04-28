@@ -1,21 +1,22 @@
 # Copyright 2026, Amlal El Mahrouss and Ne.app contributors.
 # Open C++ Libraries is licensed under BSL-1.0
 
-from os import system
+# -*- coding: utf-8 -*-
+
+import subprocess
+import os
 
 class UpdateFunctor:
     def __init__(self):
-        system("cd libs && cd tproc && git pull && cd ..")
-        system("cd libs && cd fix && git pull && cd ..")
-        system("cd libs && cd core && git pull && cd ..")
-        system("git add libs/core libs/fix libs/tproc")
-        system("git commit -s")
+        subprocess.call(["git", "-C", "libs/tproc", "pull"])
+        subprocess.call(["git", "-C", "libs/fix", "pull"])
+        subprocess.call(["git", "-C", "libs/core", "pull"])
+        subprocess.call(["git", "add", "libs/core", "libs/fix", "libs/tproc"])
+        if (os.environ.get('UPDATER_NO_COMMIT', False) == False):
+            subprocess.call(["git", "commit", "-s"])
 
 
 def start():
     functor = UpdateFunctor()
     print("INFO: Updater: Functor called")
-
-
-
 
