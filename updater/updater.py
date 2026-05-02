@@ -1,4 +1,4 @@
-# Copyright 2026, Amlal El Mahrouss and Ne.app contributors.
+# Copyright 2026, Amlal El Mahrouss and contributors.
 # Open C++ Libraries is licensed under BSL-1.0
 
 # -*- coding: utf-8 -*-
