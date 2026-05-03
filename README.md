@@ -1,6 +1,6 @@
-# 🍯 Open C++ Libraries:
+# 🍯 The Open C++ Libraries.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
+![GitHub Repo Stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
 
 ## Quick Install:
 
