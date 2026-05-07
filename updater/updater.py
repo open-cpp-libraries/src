@@ -13,7 +13,7 @@ class UpdateFunctor:
         subprocess.call(["git", "-C", "libs/core", "pull"])
         subprocess.call(["git", "add", "libs/core", "libs/fix", "libs/tproc"])
         if (os.environ.get('UPDATER_NO_COMMIT', False) == False):
-            subprocess.call(["git", "commit", "-s"])
+            subprocess.call(["git", "commit", "-s", "-S"])
 
 
 def start():
