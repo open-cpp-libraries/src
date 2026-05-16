@@ -1,8 +1,8 @@
-# 🍯 The Open C++ Libraries.
+# Open C++ Libraries
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
 
-## Quick Install:
+## Quick Install
 
 > [!NOTE]
 > On Windows, you will need to use the setup link at:
@@ -14,13 +14,13 @@ Install the OCL using the following link:
 curl -fsSL http://install.ocl.nekernel.org | sh
 ```
 
-## Primers:
+## Primers
 
 The primers are available at:
 
 - https://primer.ocl.nekernel.org
 
-## Abstract:
+## Abstract
 
 The OCL provides free header-only C++ libraries for usage in C++ software development.
 
@@ -28,7 +28,7 @@ Modules include, a `core` library containing algorithms and containers for C++20
 
 These libraries were built on top of the Boost C++ libraries and C++ SL.
 
-## Using OCL:
+## Using OCL
 
 This is taken from the FIX module, and will be used here as an example of usage of the OCL.
 
@@ -47,11 +47,11 @@ int main(int argc, char** argv)
 
 The OCL are mostly headers only (except OCL.FIX as of 2026), so no compilation step is needed. And is C++17 or later.
 
-## Community:
+## Community
 
-Join us in our [Discord](https://discord.gg/uD76Qweght) we're quite active and open for contributors!
+Join the ne.app [discord](https://discord.gg/uD76Qweght), we're quite active there and open for contributors!
 
-## Getting Started:
+## Getting Started
 
 Documentation can be found at: [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org).
 
