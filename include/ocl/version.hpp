@@ -17,4 +17,10 @@
 
 #define OCL_LIB_VERSION "01_63_"
 
+#include <ocl/version_git.hpp>
+
+#ifdef OCL_INCLUDE_BAN_LIST
+#include <ocl/banned.hpp>
+#endif
+
 #endif
