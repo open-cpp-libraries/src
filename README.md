@@ -1,6 +1,5 @@
-# Open C++ Libraries
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/ocl-foss-org/ocl)
+![GitHub Stars](https://img.shields.io/github/stars/ocl-foss-org/ocl?style=for-the-badge)
 
 ## Quick Install
 
@@ -22,7 +21,7 @@ The primers are available at:
 
 ## Abstract
 
-The OCL provides free header-only C++ libraries for usage in C++ software development.
+Ne.app OCL provides free header-only C++ libraries for usage in C++ software development.
 
 Modules include, a `core` library containing algorithms and containers for C++20 or later.
 
