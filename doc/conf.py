@@ -9,4 +9,3 @@ version = '1.63'
 release = '1.63.7'
 extensions = ['sphinx.ext.napoleon', 'sphinx.ext.viewcode']
 language = 'en'
-html_theme = 'pydata_sphinx_theme'
