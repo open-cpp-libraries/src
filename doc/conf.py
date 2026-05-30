@@ -7,6 +7,6 @@ author = 'Amlal El Mahrouss'
 copyright = '2026, Amlal El Mahrouss'
 version = '1.63'
 release = '1.63.7'
-extensions = ['sphinx.ext.markdown', 'sphinx.ext.napoleon', 'sphinx.ext.viewcode']
+extensions = ['sphinx.ext.napoleon', 'sphinx.ext.viewcode']
 language = 'en'
 html_theme = 'pydata_sphinx_theme'
