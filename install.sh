@@ -14,5 +14,5 @@ cmake -B build
 echo "==> INSTALLING THE OPEN C++ LIBRARIES..."
 sudo cmake --install build
 
-echo "==> WELCOME TO OPEN C++ LIBRARIES."
+echo "==> WELCOME TO NE.APP OPEN C++ LIBRARIES."
 echo "==> THANK YOU FOR USING THE OCL!"
