@@ -17,6 +17,12 @@
 #undef strcat
 #define strcat OCL_BANNED(strcat)
 
+#undef memset
+#define memset OCL_BANNED(memset)
+
+#undef memcpy
+#define memcpy OCL_BANNED(memcpy)
+
 /// More unsafe C functions are welcome by submission.
 
 #endif
